@@ -7,7 +7,7 @@ h1{
 }
 
 p {
-  background-color: 477CFF;
+  background-color: yellow;
   border: 2px solid black;
   height: 150px;
   margin-right: 10px;
@@ -22,7 +22,7 @@ p {
 }
 
 #p1 {
-  background-color: pink;
+  background-color: green;
   position: absolute;
   text-align: center;
   font-weight: bold;
@@ -35,7 +35,7 @@ p {
 
 }
 #p2 {
-  background-color: pink;
+  background-color: blue;
   position: absolute;
   text-align: center;
   font-weight: bold;
@@ -48,7 +48,7 @@ p {
 
 }
 #p3 {
-  background-color: pink;
+  background-color: red;
   position: absolute;
   text-align: center;
   font-weight: bold;
