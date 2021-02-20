@@ -11,6 +11,7 @@ p {
   border: 2px solid black;
   height: 160px;
   margin-right: 10px;
+  margin-left: 10px;
   padding: 40px 10px 10px 10px;
   overflow: hidden;
 }
